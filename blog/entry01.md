@@ -24,7 +24,10 @@ One skill I'm developing is researching for this project. I have to search for i
 
 Another skill I'm developing is reading and understanding information. Some articles contain certain words and information that I really was not familiar with, especially the vocabulary words. The space topic has a lot of vocabulary words that I found quite difficult, but it was kind of interesting. I read carefully and understand what they are explaining instead of just reading the information without understanding it. This also helped me explain what I learned in my own words and created a new curiosity for space.
 
----
+
+## Summary
+
+So far, I have learned a lot about space and the universe. I explored different websites and found information that helped me understand more about space. I also came across new vocabulary words that I was not familiar with before. Some of the information was difficult to understand, but it made me more curious to learn about it. I still have a lot to research, and I am looking forward to learning more about space and eventually creating my own website using HTML and CSS.
 
 [Next](entry02.md)
 
