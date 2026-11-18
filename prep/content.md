@@ -9,7 +9,7 @@ The topic I chose for my year-long Freedom Project is Space and the Universe. I 
 ## Part A: Existing Technology
 
 ##### Software
-# Content
+
 
 - 1st Google search: "Astronomy software and space programs"
 - 1st website looked into: [NASA Science](https://science.nasa.gov/)
